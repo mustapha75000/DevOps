@@ -2,7 +2,7 @@
 # Pokédex - Mustapha & Quentin - Projet DevOps
 
 ## Table des matières
-- 🪧 [À propos](#à-propos)
+- ℹ️ [À propos](#à-propos)
 - 📦 [Prérequis](#prérequis)
 - 🚀 [Installation](#installation)
 - 🛠️ [Utilisation](#utilisation)
